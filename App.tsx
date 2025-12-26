@@ -41,7 +41,7 @@ const App: React.FC = () => {
       {/* Header */}
       <header className="absolute top-0 left-0 w-full p-6 z-50 flex justify-between items-center">
         <h1 className="text-2xl font-serif font-bold text-white tracking-tight">
-          Company Profile <span className="text-white/40 font-normal">.24</span>
+          Company Profile <span className="text-white/40 font-normal">.26</span>
         </h1>
         <div className="hidden md:block text-xs font-mono text-white/30">
           RAMAH GENERAL CONTRACTING & TRANSPORT L.L.C-S.P.C
